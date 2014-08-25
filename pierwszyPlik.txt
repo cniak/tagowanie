@@ -1,3 +1,4 @@
 jest sobie pliczekEKEKEK
 liniowy
 nowa linia
+nowa linia2
